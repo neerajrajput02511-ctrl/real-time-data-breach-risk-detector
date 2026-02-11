@@ -292,7 +292,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Author
 
-**[Neeraj]**  
+**[Neeraj singh]**  
 *Smart India Hackathon 2026*  
 *Cybersecurity Track*
 
